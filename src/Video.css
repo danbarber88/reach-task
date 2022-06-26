@@ -1,0 +1,9 @@
+.video-container {
+    width: 700px;
+    margin: 20px 0;
+}
+
+video {
+    width: 100%
+}
+
